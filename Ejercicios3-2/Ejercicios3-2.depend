@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1560362259 source:c:\users\zhenpeng li\documents\fundamentosprogramacion\ejercicios3-2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ColaDinamica.h"
+
+1560270374 c:\users\zhenpeng li\documents\fundamentosprogramacion\ejercicios3-2\coladinamica.h
+	<stdio.h>
+
+1560363083 source:c:\users\zhenpeng li\documents\fundamentosprogramacion\ejercicios3-2\coladinamica.c
+	<stdio.h>
+	<stdlib.h>
+	"ColaDinamica.h"
+

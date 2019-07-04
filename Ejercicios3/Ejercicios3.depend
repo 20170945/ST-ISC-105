@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1560261185 source:c:\users\zhenpeng li\documents\fundamentosprogramacion\ejercicios3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"PilaDinamica.h"
+
+1560261606 c:\users\zhenpeng li\documents\fundamentosprogramacion\ejercicios3\piladinamica.h
+	<stdio.h>
+
+1560268468 source:c:\users\zhenpeng li\documents\fundamentosprogramacion\ejercicios3\piladinamica.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"PilaDinamica.h"
+

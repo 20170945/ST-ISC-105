@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1559656314 source:c:\users\zhenpeng li\documents\fundamentosprogramacion\colas\colas.c
+	<stdlib.h>
+	"colas.h"
+
+1559653964 c:\users\zhenpeng li\documents\fundamentosprogramacion\colas\colas.h
+	<stdlib.h>
+
+1559659351 source:c:\users\zhenpeng li\documents\fundamentosprogramacion\colas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"colas.h"
+	"conio.h"
+
+1286690350 source:c:\users\zhenpeng li\documents\fundamentosprogramacion\colas\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio.h"
+
+1286690424 c:\users\zhenpeng li\documents\fundamentosprogramacion\colas\conio.h
+	<stdio.h>
+

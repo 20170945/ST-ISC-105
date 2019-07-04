@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1286690350 source:c:\users\zhenpeng li\documents\fundamentosprogramacion\clase008\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio.h"
+
+1286690424 c:\users\zhenpeng li\documents\fundamentosprogramacion\clase008\conio.h
+	<stdio.h>
+
+1561472323 source:c:\users\zhenpeng li\documents\fundamentosprogramacion\clase008\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conio.h"
+	"ListaDobleCircular.h"
+
+1561472685 source:c:\users\zhenpeng li\documents\fundamentosprogramacion\clase008\listadoblecircular.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaDobleCircular.h"
+
+1561471419 c:\users\zhenpeng li\documents\fundamentosprogramacion\clase008\listadoblecircular.h
+	<stdio.h>
+	<stdlib.h>
+

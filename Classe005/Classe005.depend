@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1558725260 source:c:\users\zhenpeng li\documents\fundamentosprogramacion\classe005\main.c
+	<stdio.h>
+	<stdlib.h>
+	"PilaEstatica.h"
+
+1558727213 c:\users\zhenpeng li\documents\fundamentosprogramacion\classe005\pilaestatica.h
+	<stdio.h>
+
+1558722874 source:c:\users\zhenpeng li\documents\fundamentosprogramacion\classe005\pilaestatica.c
+	<stdio.h>
+	<string.h>
+	"PilaEstatica.h"
+
