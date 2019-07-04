@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1559218887 source:c:\users\zhenpeng li\documents\fundamentosprogramacion\primerparcial2\heap.c
+	<stdlib.h>
+	<math.h>
+	"heap.h"
+
+1559054923 c:\users\zhenpeng li\documents\fundamentosprogramacion\primerparcial2\heap.h
+	<stdlib.h>
+
+1559829426 source:c:\users\zhenpeng li\documents\fundamentosprogramacion\primerparcial2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"heap.h"
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1559827060 source:c:\users\zhenpeng li\documents\fundamentosprogramacion\primerparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"trespila.h"
+
+1559828315 c:\users\zhenpeng li\documents\fundamentosprogramacion\primerparcial\trespila.h
+	<stdlib.h>
+
