@@ -10,8 +10,8 @@ typedef struct
     unsigned short ano;
     char *Clasificacion;
     float Calificacion;
-    float Duracion;
-    char **Generos;
+    unsigned int Duracion;
+    unsigned short Generos;
     char *Sinopsis;
 }Pelicula;
 

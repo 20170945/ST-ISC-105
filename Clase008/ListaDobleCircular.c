@@ -7,6 +7,7 @@ Lista* InicializarLista()
 {
     Lista* nuevaLista = (Lista*)malloc(sizeof(Lista));
     nuevaLista->Cantidad = 0;
+    nuevaLista->Cabeza = NULL;
     return nuevaLista;
 }
 

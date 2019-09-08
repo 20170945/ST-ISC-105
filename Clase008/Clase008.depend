@@ -10,18 +10,30 @@
 1286690424 c:\users\zhenpeng li\documents\fundamentosprogramacion\clase008\conio.h
 	<stdio.h>
 
-1561472323 source:c:\users\zhenpeng li\documents\fundamentosprogramacion\clase008\main.c
+1563057209 source:c:\users\zhenpeng li\documents\fundamentosprogramacion\clase008\main.c
 	<stdio.h>
 	<stdlib.h>
 	"conio.h"
 	"ListaDobleCircular.h"
+	"CustomInputs.h"
 
-1561472685 source:c:\users\zhenpeng li\documents\fundamentosprogramacion\clase008\listadoblecircular.c
+1562532593 source:c:\users\zhenpeng li\documents\fundamentosprogramacion\clase008\listadoblecircular.c
 	<stdio.h>
 	<stdlib.h>
 	"ListaDobleCircular.h"
 
-1561471419 c:\users\zhenpeng li\documents\fundamentosprogramacion\clase008\listadoblecircular.h
+1563053542 c:\users\zhenpeng li\documents\fundamentosprogramacion\clase008\listadoblecircular.h
 	<stdio.h>
 	<stdlib.h>
+
+1563056072 source:c:\users\zhenpeng li\documents\fundamentosprogramacion\clase008\custominputs.c
+	<stdio.h>
+	<stdlib.h>
+	"conio.h"
+	"CustomInputs.h"
+
+1563053138 c:\users\zhenpeng li\documents\fundamentosprogramacion\clase008\custominputs.h
+	<stdio.h>
+	<stdlib.h>
+	"conio.h"
 
