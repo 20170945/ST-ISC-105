@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1563895430 source:c:\users\zhenpeng li\documents\fundamentosprogramacion\sudoku\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conio.h"
+
+1286690350 source:c:\users\zhenpeng li\documents\fundamentosprogramacion\sudoku\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio.h"
+
+1286690424 c:\users\zhenpeng li\documents\fundamentosprogramacion\sudoku\conio.h
+	<stdio.h>
+
